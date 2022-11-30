@@ -6,6 +6,14 @@ Calls twitter developer URL, gets the tweets and stores in mysql tweet table.
 
 Finally displays the stored tweets from database.
 
+
+developer twitter account
+==========================
+
+create account in developer twitter account.
+
+get the user key and secret key of user and oauth to call twitter api.
+
 running proces..
 =================
 
