@@ -7,10 +7,10 @@
     $query_param = $matchFound ? trim($_GET["q"]) : 'india';
 
 $settings = array(
-'oauth_access_token' => "1597595086669348864-CvqvHDXeLTLjO5yGZtw6NWZI41Rogm",
-'oauth_access_token_secret' => "UUMYaGGHKmTXdCO2OUYqk8noYH5ipzudEguInRYSDC5hp",
-'consumer_key' => "xmDqhVYj2ssPPGZqE51S031nt",
-'consumer_secret' => "KoBFjDTAsErJsEnvmnEQVBDL8faLyHvEPoa1GdRcTYNfonGCsG"
+'oauth_access_token' => "",
+'oauth_access_token_secret' => "",
+'consumer_key' => "",
+'consumer_secret' => ""
 );
 
 
