@@ -15,3 +15,4 @@ localhost/twitter-api/main.php?q=singarayakonda ------> with query param, it wil
 
 
 
+![alt text](https://github.com/sambachennamsetty/twitter-api-php/blob/main/twiiter-api.png)
